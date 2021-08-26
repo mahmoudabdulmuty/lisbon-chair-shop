@@ -9,4 +9,5 @@ made after first week of coding bootcamp.
 * HTML5/CSS3
   - CSS Grid
   - Flex-box
-  - Applying all-design-guidelines including (Typography,Colors,...etc)
+  - Applying all-design-guidelines including (Typography, Colors, ...etc)
+ 
